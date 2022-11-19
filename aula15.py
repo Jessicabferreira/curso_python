@@ -9,5 +9,3 @@ int_numero_2 = int(numero_2)
 
 
 print(f'A soma dos números é: {numero_1 + numero_2}')
-
-'''Usando a função input para coletar dados do usuário'''
