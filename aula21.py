@@ -1,5 +1,5 @@
-# Operador lógico
-# and (e) 
+# Operadores lógicos
+# and (e)  or (ou) not (não)
 # and - Todas as condições precisam ser verdadeiras
 # Se qualquer valor for considerado falso,
 # a expressão inteira será avaliada naquele valor
