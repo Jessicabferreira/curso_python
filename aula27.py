@@ -13,3 +13,4 @@ print(variavel[:5])
 print(variavel[3])  # o espaço é um caracter válido
 print(variavel[-8:-2])
 print(len(variavel))
+print(variavel[0:9:2]) # passo ele pula o caracter
