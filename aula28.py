@@ -32,3 +32,4 @@ if nome and idade:
 
 else:
     print('Desculpe, você deixou campos vazios.')
+    
