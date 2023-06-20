@@ -18,3 +18,4 @@ texto = 'Jessica'  # iterável
 
 for letra in texto:
     print(letra)
+    
