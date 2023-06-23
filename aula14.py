@@ -7,5 +7,3 @@ formato = string.format(
 )
 
 print(formato)
-
-
