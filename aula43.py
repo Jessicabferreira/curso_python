@@ -1,4 +1,4 @@
-# While, quando eu não sei quantas repetições vou ter.
+# While, quando eu NÂO SEI quantas repetições vou ter.
 # senha_salva = '123456'
 # senha_digitada = ''
 # repeticoes = 0
@@ -10,6 +10,8 @@
 
 # print(repeticoes)
 # print('Aquele laço acima pode ter repetições infinitas')
+
+# for, quando EU SEI quantas repetições vou ter.
 texto = 'Python'
 
 novo_texto = ''
