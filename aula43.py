@@ -1,3 +1,4 @@
+# While, quando eu não sei quantas repetições vou ter.
 # senha_salva = '123456'
 # senha_digitada = ''
 # repeticoes = 0
