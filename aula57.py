@@ -1,0 +1,3 @@
+""" 
+enumerate - enumere iteráveis (índices)
+"""
