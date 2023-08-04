@@ -2,7 +2,7 @@
 enumerate - enumere iteráveis (índices)
 """
 
-# [(0, 'Maria'), (1, 'Helena'), (2, 'Luiz'), (3, 'João')]
+# [(0, 'Maria'), (1, 'Helena'), (2, 'Jessica'), (3, 'Pedro')]
 lista = ['Maria', 'Helena', 'Jessica']
 lista.append('Pedro')
 
