@@ -10,5 +10,3 @@ externos.
 A palavra global faz uma variável do escopo externo 
 ser a mesma no escopo interno.
 """
-
-
